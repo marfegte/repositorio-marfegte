@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.live.streamspro"
+       name="LiveStreams[B][COLOR red]Pro[/COLOR][/B]"
+       version="1.4.1"
+       provider-name="Shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
+    <description>Além do que Transmissões permitiu que você fizer isso, você pode agora,
+1. chamada regex em regex,
+2. regex múltipla na página, regex em sessão, também htmlunescape respostas
+3. Criar uma sessão de um regex e passar para o próximo na linha
+4. salvar sessões para um arquivo e abrir novamente mais tarde
+5. write code python em arquivo .py, colocado no diretório do perfil e, em seguida, chamar de seu regex.
+6. uso epoctime, guid e desempacotar como funções já definidas.
+7. Use-o para deixar os valores para as páginas para obter as respostas adequadas
+8. apoio muitos cabeçalhos, como origem, X solicitada-Com
+9. agora você pode anexar os cookies em resposta e, em seguida, ler em regex usando includeheaders
+10. Agora você pode conectar-se a uma outra url web através de seu xml usando externallink
+11. suporte para o Google captcha, agora você pode mostrar e, em seguida, envie o texto       
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.cine.onDemand"
+       name="[B]Cine [COLOR red]on.[/COLOR]Demand[/B]"
+       version="1.2"
+       provider-name="marfegte">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+	<import addon="script.module.simple.downloader" version="1.9.4"/>
+	<import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Filmes Lançamento e classicos</summary>
+    <description>Melhor Filmes em qualidade HD 720p 
+	So aqui [B]Cine [COLOR red]on.[/COLOR]Demand[/B]</description>
+	<website></website>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.series.onDemand"
+       name="[B]Series [COLOR red]on.[/COLOR]Demand[/B]"
+       version="1.0"
+       provider-name="marfegte">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
+	<import addon="script.module.simple.downloader" version="1.9.4"/>
+	<import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Series Lançamento</summary>
+    <description>Melhor Series em qualidade HD 720p
+	So aqui [B]Series [COLOR red]on.[/COLOR]Demand[/B]</description>
+	<website></website>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="repository.marfegte" 
+name="repositorio marfegte" 
+version="1.0.1" 
+provider-name="marfegte">
+ <extension point="xbmc.addon.repository" name="Repositorio marfegte">
+  <info compressed="false">http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/addons.xml</info>
+  <checksum>http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/addons.xml.md5</checksum>
+  <datadir zip="false">http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/</datadir>
+ </extension>
+ <extension point="xbmc.addon.metadata">
+  <summary>repositorio marfegte</summary>
+  <description>XBMC Addons repositorio-xbmc-marfegte</description>
+  <disclaimer></disclaimer>
+  <platform>all</platform>
+ </extension>
+</addon>  
+</addons>

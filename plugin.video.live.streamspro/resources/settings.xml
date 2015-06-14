@@ -1,0 +1,36 @@
+﻿  <settings>
+  <category label="Geral">
+    <setting id="save_location" type="folder"  label="Selecione um local de download." default=""/>
+    <setting id="use_thumb" type="bool" label="Use Thumbnails como Fanart" default="false" />
+    <setting id="add_playlist" type="bool" label="Adicione itens com vários links como listas de reprodução" default="false"/>
+    <setting id="debug" type="bool" label="Ativar Add-on Depuração" default="false"/>
+  </category>
+  <category label="Adicionar Lista">
+    <setting id="choose_source" type="enum" values="Escolha Arquivo|Entrar URL" label="Escolha Tipo Lista" default=""/>
+    <setting id="new_file_source" type="file" source="files" label="Escolha Arquivo" default="" visible="eq(-1,0)"/>
+    <setting id="new_url_source" type="text" label="Adicionar URL" default="" visible="eq(-2,1)"/>
+    <setting type="sep" />
+    <setting type="action" label="Adicionar Lista" option="close" action="RunPlugin(plugin://plugin.video.live.streamspro/?mode=7)" />
+    <setting type="sep" />
+  </category>
+  
+  <category label="Informações">      
+        <setting label="Livestreamspro ja vai com lista de canais ja embutida" type="lsep"/>
+		<setting label="Como Atualização da lista de canais automatica" type="lsep"/>
+		<setting label="Mas informações você vai encontrada no seguinte endereço" type="lsep"/>	
+		<setting label="http://forum.freetvbrasil.com" type="lsep"/>
+		<setting label="http://facebook.com/groups/tv.online.xbmc.brasil" type="lsep"/>
+       	
+        <setting label="Visite nosso Forum FreeTV Brasil" type="action" action="RunScript($CWD/resources/lib/forum.py)" />
+		<setting label="Grupo no Facebook" type="action" action="RunScript($CWD/resources/lib/face.py)" />
+		<setting label="Clique aqui para fazer um doação" type="action" action="RunScript($CWD/resources/lib/doacao.py)" />
+    </category>
+    <category label="Doações">
+	<setting label="" type="lsep"/>
+	<setting label="Amigos nós ajudando a continua com esse projeto" type="lsep"/>
+	<setting label="Faça um Doação pra manter esse projeto" type="lsep"/>
+	<setting label="Valor da doação e você que determinar" type="lsep"/>
+	<setting label="" type="lsep"/>
+	<setting label="                                           Clique aqui para fazer um doação" type="action" action="RunScript($CWD/resources/lib/doacao.py)" />
+    </category>
+    </settings>
