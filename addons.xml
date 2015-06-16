@@ -80,13 +80,13 @@ name="repositorio marfegte"
 version="1.0.1" 
 provider-name="marfegte">
  <extension point="xbmc.addon.repository" name="Repositorio marfegte">
-  <info compressed="false">http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/addons.xml</info>
-  <checksum>http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/addons.xml.md5</checksum>
-  <datadir zip="false">http://repositorio-xbmc-marfegte.googlecode.com/svn/trunk/</datadir>
+  <info compressed="false">https://raw.githubusercontent.com/marfegte/repositorio-marfegte/master/addons.xml</info>
+  <checksum>https://raw.githubusercontent.com/marfegte/repositorio-marfegte/master/addons.xml.md5</checksum>
+  <datadir zip="false">https://raw.githubusercontent.com/marfegte/repositorio-marfegte/master/repo</datadir>
  </extension>
  <extension point="xbmc.addon.metadata">
   <summary>repositorio marfegte</summary>
-  <description>XBMC Addons repositorio-xbmc-marfegte</description>
+  <description>Repositorio marfegte</description>
   <disclaimer></disclaimer>
   <platform>all</platform>
  </extension>
