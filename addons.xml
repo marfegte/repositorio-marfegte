@@ -53,28 +53,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.series.onDemand"
-       name="[B]Series [COLOR red]on.[/COLOR]Demand[/B]"
-       version="1.0"
-       provider-name="marfegte">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.beautifulsoup" version="3.0.8"/>
-	<import addon="script.module.simple.downloader" version="1.9.4"/>
-	<import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Series Lançamento</summary>
-    <description>Melhor Series em qualidade HD 720p
-	So aqui [B]Series [COLOR red]on.[/COLOR]Demand[/B]</description>
-	<website></website>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="repository.marfegte" 
 name="repositorio marfegte" 
 version="1.0.1" 
