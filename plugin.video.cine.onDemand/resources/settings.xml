@@ -1,6 +1,0 @@
-<settings>
-    <setting id="use-account" type="bool" label="Geral" default="false"/>
-    <setting id="username" type="text" label="Usuario" default="" enable="!eq(-1,false)"/>
-    <setting id="password" type="text" label="Senha" default="" option="hidden" enable="!eq(-2,false)"/>
-    <setting id="hide-successful-login-messages" type="bool" label="Login realizado com sucesso" default="false" enable="!eq(-3,false)"/>
-</settings>
