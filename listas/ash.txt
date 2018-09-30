@@ -1,0 +1,109 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<channel>
+<name>[B]1ª Temporada[/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Todos Episódios</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2EC28D954FE6B5190E3C3C25B23BD1387114200C</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B]2ª Temporada[/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Todos Episódios</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:300FA57DC208A28F42AC994698D411C9E941C45A</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/doWOTNJihtbtabDWKq0ZbznPXNB.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B]3ª Temporada[/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3E86D18875197DA10A4917586AF01219333EEB4A</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B0BCB2089490B0D45D4A8EFBF8E0DD64A31A9A46</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2eb6228282c2233786cfaf666a70de12182dcd03</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b65de6bf1ec810ef65c61fd78f906fe5122a96d9</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5982E23467CC01E0BA86E7CE9F05218317FFDFD7</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:E88985A073CB57BE891236CA283BB4DFC28D674A</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:843C6CA635D8359066408DC892C577257D9A6632</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:55cc1311c4c17840a77fe740ef987c550b47c0d6</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09 e 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3d6f054170c9af3a06f57965cb1d69723d64d35e</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>***Fim da Série***</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/wkHStHo0l34FzuSoaBvLx7nItWC.jpg</thumbnail>
+<fanart></fanart>
+</item>

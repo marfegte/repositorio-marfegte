@@ -1,0 +1,13 @@
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:f2ecfe6bf71123d4cd41c2e1107bf0a02eeb3af3</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/07/MV5BOGM0YmJlNGItOTVlNi00NjViLWFiMDAtNzE3MDk0YThjOTVhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/07/MV5BOGM0YmJlNGItOTVlNi00NjViLWFiMDAtNzE3MDk0YThjOTVhXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_.jpg</thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,476 @@
+<item>
+<title>Dragon Ball Super Dublado 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 01: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:81C149C4A3B65ED5A871D3F97F85DEF43DEB8BBA</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 02 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9FA50AED3FA6B8FBCC4AD5E2CC5309E5659EC53E</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0EC4151F07E00B9E105FD7AA734A68568FDE5446</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 04: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C686E42F77871FE1C51B6EC927A9780D8F9427B2</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 05: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A2864E2CD5472B019967630E968054C72F59581F</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 06: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:956F140A2DECABC3D3ED6531CBFE2D5E423186C9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 07: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:74B1C56E21F273F37C9BD1B594597DF6ACE55366</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 08: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1B0D6E2B53CB042D9AF0C0C321499371BD124CD7</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 09: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:57D4BE5E0695F80FCE16F6EF8DCA20EDAE90A3B1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 10: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3C488DF3684390E2B9555E292310C8041F79C17D</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8EC879C5348472E7934F0C24233E107DA36ED4B8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 12: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:083E43D53C061426B0D5D9435E2B2282A3AC295C</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 13: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5DAEFAE97401E03CD40307E4D319A7900AAE8EA2</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 14: 720p (Final da 1ª Temporada)</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:59F9BB3C7362E4875853B2353795305AAE4B2CA6</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 15: 720p(Início da 2ª Temporada)</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:473DD0540B67FE41EF4907F4F79D08CDF1A38566</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 16: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C6DA732BA81E11B6E4A99073FA15B3E9BF16A0A9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 17: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:093ACAE6B5914B86FE074ED7B0CAB3231AF5A226</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 18: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8795E8F997D8D6CD1286A575A3B4A9C933CD8506</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 19: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8DB3537A6EE45277B1723A84E39DB0E9DB1B37B9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 20: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:D588D95FB81AEEC112B27CF8EDEC2E7A28678A34</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 21: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:EA4E94321972501CF3007ABA62BAD9D5E7E76E0D</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 22: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:91260F264DBAEB648A30273BF3091FB429DA8767</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 23: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B387EB911DC14BA3BC77227F8CF3C53A86BB9239</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 24: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8C0B429C6A20963DC4984E03D53C5320643D7BB8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 25: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C5D6AB640C3249BE6F5C2A207DFF78040DF90687</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 26: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:BD56481288388AEA3968323FDE8E04A5544104C2</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 27: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:349AA6285F104FA13F7F5DC95E550D30530D9384</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 28: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:68d603f5e0163d1d6bc2159323bb282231e9cff4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 29: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c7654726c2a0987b8c45839c6bac9ef0bd1f4132</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 30: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:74A43F5F225CA68906490DBBF65FBA8DD8EADF83</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 31: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:53da8faaa10a41662a223b3fff71be0b2e921ca9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 32: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:34C20683DAD6F2B181DA989232BC53BE4849BE40</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 33: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8F37CC5CF291C8FB42DE58438FBE87A511F1AF71</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 34: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5045C863B9EDD0F761B8345AEC2979449FA5A846</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 35: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3F0261D88E82CC7E0CDF255F285E3FA409F90A0F</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 36: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7B21280DCC804077E775330D8E8F87237AAE91F5</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 37: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:20ECD8F7E8C3C53C2ABBF9B92C43A60B2ADC6FD1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 38: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2CBC4F9DFDB31FEBDA29A84C2715CFB20A4DAD97</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 39: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8171D562A0AF689AF8F7A7C6EA82E90D0DE69372</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 40: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:AE136AD321A89457FEFC311E6FDBC05B7E42D0F8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 41: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:CCA0C4DC40924149AC2C134C74361277B89182B8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 42: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3ADF212571EF1890B4D6A9580FF36CF6F91B8D08</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 43: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:25A55CEEB3A1E5E99AB7C38AC7CDF57CDC29902A</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 44: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:97C4658E1F6F2E880E69991F957C85BD1BCC7E7F</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 45: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:d76f7fde12cd5659d50ed746d107d5e4c244a079</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 46: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C85B840EBB3E8422B94B340BE9E5D07F6459B31A</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 47: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0362893302979B5D53AF2698EDC0CBA7BC857676</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+
+<item>
+<title>Episódio 48: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2EA3B807749539F4233A9912C306500C258F82F1</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 49: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:165232a9b0c5931e0fb6b54bf90b18ad8e1b1207</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 50: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A63132D0D193FDF9CAF891EF195F3723EDC385B5</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 51: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:394C8E8B875545CCA0504FFED7BD1CBA74DB3A52</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 52: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:084DF11E6F1AD4A7848820845C6B23CF113E7194</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 53: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6DA0E1DC72D1BF13E4C3221D41394C509F504BC4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 54: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:cacd7b806210100b8a88c0dccb0d8bc38f11bdea</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 55: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5b3e2d1917181d320119d12c4e1ccc1fbc501a9a</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 56: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:134d626f7999f72b42919ba3ee49afba5a146821</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 57: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e7cf6181a298b76a6eda7b211d3cedf430690204</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 58: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5B1E3843BA086781C96FDC6ADC22837EC63EBD9A</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 59: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2127B5FF41033CAD9AEF1C35043600E3B8B8BE15</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 60: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2ABA953592E458D41EE364DF91AFF3D01815F9AF</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 61: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8daab62bf6b53e28e4f48a51437edf755ceb1995</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 62: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:dca0d2f3c8bc0bc7e118c997d59b3fba90adbd53</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 63: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:335293c68f6c8dca9ab2cfacc5298daf569a1582</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 64: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A0073CB042DB6CA54030712055EF1FD1113EE23F</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 65: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:77A5BCFD42D494954399B6AF5A1A9F980AE7F0F6</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 66: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:31ee6dd7607a20e80e48bd35243fd53275641a48</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 67: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4da60628efcbabc3db757a372bf9a0f44a432be4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>

@@ -1,0 +1,98 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]LANÇAMENTOS[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/lancamentos.xml</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/lacamento.png</thumbnail>
+<fanart>http://cineondemand.tk/ondemand/imagens/fanart.jpg</fanart>
+<info>Melhor Filmes Lançada esta aqui gratis</info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]LEGENDADO[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/legendado.xml</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/legendado.png</thumbnail>
+<fanart>http://cineondemand.tk/ondemand/imagens/fanart.jpg</fanart>
+<info>So filmes Legendado pra quem gosta</info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]COLEÇÃO[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/colecao.xml</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/colecao.png</thumbnail>
+<fanart>http://cineondemand.tk/ondemand/imagens/fanart.jpg</fanart>
+<info>Melhor Coleção de filmes</info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]FILMES ONDEMAND[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/filmes.txt</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/filmes.png</thumbnail>
+<fanart>http://cineondemand.tk/ondemand/imagens/fanart.jpg</fanart>
+<info>Lista filmes Favoritos</info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]FILMES DO YOUTUBE[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/youtube.txt</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/youtube.png</thumbnail>
+<fanart>http://cineondemand.tk/ondemand/imagens/fanart.jpg</fanart>
+<info>Lista filmes do youtube completo</info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]FILMES CRACKLE[/COLOR][/B]</name>
+<thumbnail>http://www.androidpolice.com/wp-content/uploads/2011/06/crackle-logo.png</thumbnail>
+<fanart>http://i.imgur.com/qyg6TFI.jpg</fanart>
+<link>https://1234</link>
+<externallink>http://cineondemand.tk/ondemand/crackle.txt</externallink>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]SÉRIES INÉDITAS[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/series.txt</externallink>
+<thumbnail>http://files.bestofworld.webnode.com.br/200000374-96bad97b54/seriados.jpg</thumbnail>
+<fanart>http://www.hotel-r.net/im/hotel/gr/serie-12.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]ANIMES ONLINE BR[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/ball_super.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]FILMES CINEMA[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/cinema.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR red] • [COLOR white]COMO INSTALAR ADDON CINE ONDEMAND[/COLOR][/B]</name>
+<externallink>http://cineondemand.tk/ondemand/cine.txt</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[B][COLOR orange] ATUALIZADO: 11/03/2017[/B][/COLOR]</name>
+<externallink>http://cineondemand.tk/ondemand/dead.txt</externallink>
+<thumbnail>http://cineondemand.tk/ondemand/imagens/atualizado.png</thumbnail>
+<fanart>http://cineondemand.net/ondemand/imagens/fanart.jpg</fanart>
+<info>
+Atualização de link um vez por semana
+Adicionamente de novos filmes sempre ao sabado
+</info>
+</channel>
+
+</channels>

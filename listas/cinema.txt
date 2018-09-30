@@ -1,0 +1,50 @@
+<item>
+<title>O Predador</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:f756e43f33a7754df09b5123dbf719b7edf55d29</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Arranha-Céu – Coragem Sem Limite</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:cb10db4399e029acfd6a5ca41c46fd993deadcb4</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/06/Arranha-C%C3%A9u-%E2%80%93-Coragem-Sem-Limite-Torrent-2018-Dual-%C3%81udio-Dublado-BluRay-720p-1080p-e1528249985846.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Homem-Formiga e a Vespa</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:a600351ce241065631770142cd1366866057a019</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/06/Homem-Formiga-e-a-Vespa-Torrent-2018-Dual-%C3%81udio-Dublado-BluRay-720p-1080p-e1528250370815.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Os Incríveis 2</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c6f5a949e9aee2f590e94b982082011b5c1d621e</link>
+<thumbnail>https://2.bp.blogspot.com/-XKyQI1hubds/WygaKV7xD3I/AAAAAAAAR8E/SRx7cbEeUDEH-b31TPVo7BKQ4773tIp8QCLcBGAs/s1600/Incredibles%2B2%2B2018.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jurassic World Reino Ameaçado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:43FBAEB9AC89033D335C94578EBD860EFDC03E20</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/05/Jurassic-World-2-Reino-Amea%C3%A7ado-Torrent-2018-Dublado-e-Legendado-720p-1080p-e1527553768236.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Deadpool 2</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8a62130f3c6921098dbfc5b1e94d5e295b9c71e1</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2017/12/Deadpool-2-2018-Dublado-e-Legendado-Torrent.jpg</thumbnail>
+<fanart>https://i.imgur.com/Xu56CJW.png</fanart>
+</item>
+
+<item>
+<title>Vingadores 3: Guerra Infinita</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:51df0e9edec4b71967d415cd12b1f30c85bf8188</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Vingadores-Guerra-Infinita-3-2018-Dublado-e-Legendado-Torrent-HD.jpg</thumbnail>
+<fanart>https://i.imgur.com/ymapuM5.png</fanart>
+</item>
+

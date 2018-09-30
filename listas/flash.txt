@@ -1,0 +1,309 @@
+<item>
+<title>The Flash 3ª Temporada Dublado</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01 - Ponto de Ignição - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP02.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>02 - Paradoxo - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP02.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03 - Magenta - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP03.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>04 - Os Novos Trapaceiros - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP04.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>05 - Monstro - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP05.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>06 - Sombra - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP06.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07 - Nevasca - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP07.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>08 - Invasão! - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP08.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> 09 - O Presente - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP09.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>10 - Problemas Emprestados do Futuro - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP10.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11 - Morto ou Vivo - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP11.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12 - Intocável - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP12.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13 - Ataque na Cidade Gorila - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP13.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14 - Ataque em Central City - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP14.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15 - A Ira de Savitar - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP15.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>16 - Entrando na Força da Aceleração - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17 - Dueto - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>18 - Abra Kadabra - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>19 - O Único e Eterno Flash - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>The Flash 4ª Temporada</title>
+<link>http://</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1356762842d72f35a043e02d32ed834a518b4f6b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9183f653bf11c5f661e37663d579fdaa13b1ebb9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ACB591A3C11AD38725977572EBF8CADE927B2F9C</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A5AF4AAE37CCC2FB0B81CDE5D53234110BA45CF2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3AA03487D4E01DF3FFEF6714BF5AD292FE30C211</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:16160B07F874CFBCFBADC3AB794B308671106037</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:58A2F9E6CA3D81AFAB871C643DB1059CA8D82503</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:329C1CD2DBE639B917CE6EFF987DF859E22B3AE3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:616fcb8d4bfb747ab909152d30f21cafa3b05b4b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:00901DD0A4AA99FFA3FE29524D5F174E771620A9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:BB8766A436D98315D6FFE45CF8E46E18F61CFCC4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:DBB3DF7294484007B5C3453B02A504BC1B662A3C</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:DF5140C00ED42A52FDBF9431DF698FA40EDDF30F</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:E87AA6F81C7123267C15ED6EDA520A9FCAEA1767</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 15</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:556BC7A5D10DE0D009FCE8D084ADE6F686EF55C2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 16</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:918099014CEBB98DDC5FC009F02DED4C5C543BFA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 17</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:d06f2ed4f4e673f5c08e1bd609c371ef1a36eec6</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 18</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:92f2474b7ab5ae0766a739625b173d872b283da2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 19</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6dc6cd7abcf10f37044202e9b56e50a58e657747</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 20</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c886fe69d5e7ee73ce22597b89d72f5ac7a300ac</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 21</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:37AB58EE79903ADAF9BB4C8B14E172890B243669</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 22</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4725fae8747f342d561ae4476702353c4ea53287</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 23</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8299c81dff3f6e2215615275c4ef283024deb453</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

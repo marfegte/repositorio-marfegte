@@ -1,0 +1,92 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>[B]1ª Temporada[/B]</name>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:18FF8773D368A5446DB01F6001168B7BD6E003A2</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5AA9CE10CCDC4484B3EAE0120AD915EE99A65E9A</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:388DB5C187C808BB889CCA5454417106FAD41E04</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:97BFCCA29CE598F86AF2AC0E0FFD9100320A9DAF</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:89D5B894D23C9C027D470D7E403F90B6ACBD4562</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:edb314ea4a1670142108578025bdec63c5c64c58</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9ea40bd335e4e9e200ec5dece6c9de43457b9ddd</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:620e955b7df1063a430ddd82fc78d7cf3ae0d358</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:043080e5f13cd2552ca569ef57ca82ad62665c93</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:62fb7de358d42788f057999bbf7862f1d68873be</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:610d8341d9669d7409c19e83137549845e408ee8</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:f7c3343ef02dfceac7213e1eb9ea85c4d5ecd344</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+</item>

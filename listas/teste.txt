@@ -1,0 +1,16 @@
+<item>
+<title>XBMC Dialog selection - Open Movies</title>
+<link>$doregex[select]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Big Buck Bunny', 'Sintel', 'Tears of Steel'])
+    channels = ['http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4', 'http://download.blender.org/durian/movies/Sintel.2010.720p.mkv', 'plugin://plugin.video.youtube/play/?video_id=R6MlUcmOul8']
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+</item>

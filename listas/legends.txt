@@ -1,0 +1,373 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]Legends Of Tomorrow 1ª Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>01 - Piloto (Parte 1) - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP01.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>02 - Piloto (Parte 2) - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP02.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03 - Laços de Sangue - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP03.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>04 - Cavaleiros Brancos - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP04.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>05 - Á Prova de Falhas - Dublado </title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP05.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>06 - Star City de 2046 - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP06.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07 - Abandonado - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP07.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>08 - Noite do Falcão - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP08.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>09 - Deixados Para Trás - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP09.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>10 - Descendência - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP10.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11 - Os Oito Magníficos - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP11.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12 - O Último Refúgio - Dublado </title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP12.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13 - Leviatã - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP13.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14 - Rio do Tempo - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP14.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15 - Destino - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP15.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>16 - Lendário - Dublado </title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/LGNDSODTMRWT01EP16.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B][COLOR blue]Legends Of Tomorrow 2ª Temporada[/COLOR][/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>01 - Fora do Tempo - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP01.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>02 - A Sociedade de Justiça da América - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP02.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>03 - Shogun - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP03.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>04 - Abominações - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP04.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>05 - Á Prova de Falhas - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP05.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>06 - País Fora de Lei - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP06.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>07 - Invasão! - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP07.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>08 - O Caminho de Chicago - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP08.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>09 - Os Caçadores da Arte Perdida - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP09.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>10 - A Legião do Mal - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP10.mp4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>11 - Renegado - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP11.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12 - Camelot/3000 - Dublado</title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP12.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13 - A Terra dos Perdidos - Dublado </title>
+<link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/LGNDSODTMRWT02EP13.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14 - Voo à Lua - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15 - Irmandade da Lança - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>16 - Mundo do Ma - Dublado</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B]Legends Of Tomorrow 3ª Temporada[/B]</name>	
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:dcd40548a2634c6fa89fb9139cc9c2748d4604a6</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e220bd364bed1593ecb6586f39124af5122952a2</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:a2617d2d6a3ffab8a1fa8e0c87b7766fe54ac20c</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:81B3747FC55CD1BA7F9D0B40E2B6CA2011471245</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A221E8BC39513EFB919FE545CD43B029832CD3A7</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:064DD1D5F9A6495F54A9F29D0FA200A50EE3611F</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:53017CD0A4CA311AA909F805BD0130D9A8459C4F</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:191FF9D4BDCBDD0EF0E7A41E5D212662F7165EF9</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:EFD55361DE18DC841920D14B09E3DED842B8F64B</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:DBD8B5146F5D73BBC4ACCBF4C2E837A9CE3380A5</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9DADB7EE855578332B1924D81B1C69DBABB8AC51</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:09FCCA57040ED78A0BA8D64D5E97D23B99DE058D</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9e72cfd9eb596a52900c07aaf80d95761331d888</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A03CD65FE142FA64283BD1720BEB006CB751E32E</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 15</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7B9D090F35B99C7C061DDEBEB6A7EAC7F8651D55</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 16</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9b722ab012fc97e92a28092c7d8c303051993a1d</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 17</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:299252b97a13c273f09c06d81ac1f9667179977f</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 18</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e7b99c0e1d66260a435963f9f83418474f81c063</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red]***FIM DA TEMPORADA***[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/10/Legends.Of_.Tomorrow.S03.Dublado.Legendado.png?w=250</thumbnail>
+<fanart>https://www.serietotaal.nl/images/nieuws/t/ezr6jflu8ryu-full.jpg</fanart>
+</item>
+
+
+

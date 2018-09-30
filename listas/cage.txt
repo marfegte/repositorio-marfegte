@@ -1,0 +1,114 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<channel>
+<name>[B]1ª Temporada[/B]</name>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7C2AF32821722EB86A11571E3487A35C570CD877</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:CADF82CACF0228F7ABEADB6C5C1D222160366BC1</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2A4C9B65937DC3D9D23858E1C9B3F3DA7103646A</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8FA867D8DD396E44B428599CDCEF5C5514D08838</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7E9C916D1142C32040B322BE7D1665D776250499</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3E70EF1CEF582B1A91BBBD178AE791D06AC60E96</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3A133098FBE3BBCC782F936CE35F9C780AF711BC</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3A29A52747144C30B10761BC1B26C1CFE9411499</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9FADC17F4E3B3846B5E3CBC6829147161FA263DF</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A7649D9F9D1A8D6E3490FCC899E87A16BD3EC73A</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8A00F4DE6A6AB67AB6A08DD7C22CA5965B4644B9</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:AB85DFC60330AFB551CB0BD37E524047113EC30A</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8273C34F67A629D0A06BD8DEEAF20D59EBCDB910</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B]2ª Temporada[/B]</name>	
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Todos Episódios</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2528028ae737050c3a93f53f6dd25e201e1eb153</link>
+<thumbnail>http://comandofilmes.tv/wp-content/uploads/2016/10/luke_cage_ver2_xxlg-2_595_Mini20Logo20TV20white20-20Gallery1.jpg</thumbnail>
+<fanart></fanart>
+</item>

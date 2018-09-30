@@ -1,0 +1,52 @@
+<item>
+<title>Esquadrão de Elite</title>
+<utube>8e41-j9k-Xk</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Vigilantes da Guerra</title>
+<utube>V1c0nu9aaz0</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Comando Kill</title>
+<utube>N8MJUsfCAZU</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>O Despertar da lenda</title>
+<utube>7FUxpdUDwA4</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Bodyguard: Resgate de Risco</title>
+<utube>xX-tSH2jGLA</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Lenda do rei Macaco 2</title>
+<utube>yLHUS3a3VKA</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>A Lenda do rei Macaco</title>
+<utube>k1ZmggrrZxc</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+

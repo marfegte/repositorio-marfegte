@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+    <item>
+      <title>[B][COLOR blue]Supergirl 2ª Temporada - Dublado[/COLOR][/B]</title>
+      <link>http://</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>01 - As Aventuras da Supergirl</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP01.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>02 - As Últimas Crianças de Krypton</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP02.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>03 - Bem-Vindo à Terra</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP03.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>04 - Sobreviventes</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP04.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>05 - Fogo Cruzado</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP05.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>06 - Mudança</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP06.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>07 - O Lugar Mais Sombrio</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP07.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>08 - Medusa</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP08.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>09 - Supergirl Vive</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP09.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>10 - Nós Podemos Ser Heróis</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP10.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>11 - As Crônicas Marcianas</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP11.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title> 12 - Luthors</title>
+      <link>http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/SPRGIRLT02EP12.mp4</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>
+    
+    <item>
+      <title>08</title>
+      <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2F0B3FFA4337A9660CA1A771317039DE8251A262</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/5guBflWv9C78MdhcxABXD8Igm4V.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lyA5Bw5paTzsVFGYHx3EbZNR9mK.jpg</fanart>
+    </item>

@@ -1,0 +1,241 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]The Originals 1ª Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c28f803f5061199809a1ded6c01860b094543780</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]The Originals 2ª Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Todos Episódios</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C6711A5AC9188C845EAE47FC06AAB039ADC3D30E</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<channels>
+<channel>
+<name>[B][COLOR blue]The Originals 3ª Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Todos Episódios</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:F924FCA3AEC82D49799CFDF5A0DFCDB2ED72CF0C</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]The Originals 4ª Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B][COLOR blue]The Originals 5ª Temporada[/COLOR][/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,194 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>The Walking Dead 1ª Temporada</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2643EB38BABB71A11D93509453F8EE5C218CA65F</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:48AE23627C4C4362EC3C1D35748C16905EA38CE9</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:522444532F6950B78ABF1528ECBA7CAD6FB170D8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9E9D52D1D04FC21E57524619922C2E229AA5E8BA</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8D81FC76D4DD8EC2319767D3CD9A11023339114C</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+</item>
+
+
+</items>
+</channel>
+<channel>
+<name>Fear the Walking Dead 2ª Temporada</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:181E0351A6D378DF7D9C1462D3C49595BFD462AA</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[B][COLOR blue]The Walking Dead 7ª Temporada - Dublado[/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>01 - Chegará o Dia em Que Você Não Estará</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:F4861B167E55A62C05F3E69F1AFE827B24EA24F4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>02 - O Poço</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7DE36505932672ADF630F98CA7CAD63F6A5AD898</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>03 - A Cela</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:E2FCC373F5A84C1E1DA285318F851A58DA2B4258</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>04 - Serviço</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:12DB3FE018C549F69FE0A69BEF0CC009A13FDDEA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>05 - Ativos</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2B327907C3B02E5D7F401267915DCADC2B6F197A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>06 - Jure</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:CA03F1CAF7354AA85DFF00E801CDD918AB074EB2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>07 - Cante-me uma Música</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9CD6A1B96C8F2A0D2AABDA6343840E44C405DC0F</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>08 - Corações Ainda Batendo</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8E10C0192673256FF5F8EB5339269D400A2F93FF</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>09 - Pedra na Estrada</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8E10C0192673256FF5F8EB5339269D400A2F93FF</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>10 - Novos Melhores Amigos</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4A53F1EBDB6E6C76587FE33D73F81176818047D7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>11 - Inimigos e Calamidades</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6E3176C2817AC22E31E3AF7EF9C3998A2CF7061A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>12 - Diga Sim</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B630128F598B76C9550EF62878EB8E7DCF5B2DB9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>13 - Enterre-me Aqui</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:F5EDC54DF7B948C72FE15AEB21A6184C3D7A68B7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>14 - O Outro Lado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:602683033D4D6CC0D8323346666EDB8A027DB3E2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>15 - Algo Que Eles Precisam</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C7F0ACE343E9D4F25E6945B4E90E5F35963DEE9E</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>16 - O Primeiro Dia do Resto da Sua Vida</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:01BD11FA56C2BA8CBD4A21B0EDD47998214ED0B0</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR blue]The Walking Dead 7ª Temporada[/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B]Especial S08: Special Behind The Dead[/B]</title>
+<link>magnet:?xt=urn:btih:f25f36414f0c7c50af1fdf1e8034ab4f20bdb1ad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

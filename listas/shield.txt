@@ -1,0 +1,300 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>[B][COLOR blue]Agents Of S.H.I.E.L.D. 3º Temporada[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8ED7AD8B3A24E559AF6CD14ADE51799FBA1DA9C2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B547C553F930E52C6AFC07758A5F106CCEB09472</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:46AD9C1F1E89B835174FAC28BD59B91872748F52</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:65EC121EA9A1C960B57A058C4DCC02EB48936454</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 5 e 6 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:D6E2F4130709FB737C01C3F8E213D951620DF08F</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8EC3400BCC1F4F35734E494ABB871AC22CC9AE81</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0E6B3516CEA8CFB5C32AC6476D600F306492151E</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:043D737188DF8AF8C7E02FDBC7C807653290381C</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:EF539738773C8E136C27F90FB653B7F639D15BFE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A9C8D3BA09BAE9E9D8F7CA3BC5150AF2F27C3B97</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:872AB048293CED769C316818DE2490BDB0C18596</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 13 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B2C6FAC6E861902B984122C1AB2869832DDF1E6F</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 14 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:DF489337622B570B9382898EF189866ABF2FEF5A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 15 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:23EF405D9CDA3D9B713CD6681BE936708E29F041</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 16 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:42D08A3BE05F77A12C4EA1D10A91156812D4D397</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 17 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:CCE7366B1F235D6CD8180B8FBE9CD823A18B4799</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 18 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:CB757C626240BC05469029336080986C8710DF7B</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>EpisódioS 1, 2 E 18 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:209003EAD889720625164035F654A9D3DBA97BAA</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 19 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:457A67B1F7E04000E55333DDF872B201743D647B</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 20 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:722B4B59A6CB08822C42BEDEA657A57EB0F7866A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 21 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:013C6890825D8BF5BE9288EABC70F8196B150EEC</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 22 - Dublado </title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:DA4FC5E34676DB900E0E280D4256A116D853A7CE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B][COLOR blue]Agents Of S.H.I.E.L.D. 4º Temporada[/COLOR][/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01 ao 03 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:bd67d2efead7a01233b7b7d3e448f6df204ce14f</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04 e 05 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:67872b1dfc35b422e8c22c5052c3200abbfa9572</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06 e 07 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3722e189a530d614d1400618f513d84a595019b2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 08 e 09 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:df0dcae94bbb49c1b9fd9078da9f15acb2517559</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 10 e 11 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:bd5168d4fe22c25cdacc84a5a2df448861fa6e82</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 12 e 13 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4532d2882601461501054258f1a3534b53d5669b</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 14 e 15 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:cc448a908a545667276f15a335a1b3857de05ff9</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 16 e 17 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2aba27da38faf1062a9c7a88955492dd5b4d72e5</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 18 e 19 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:421881b597ff1e199e7a72d902a31b786a1a57ee</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 20, 21 e 22 - Dublado</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:79c688fb4d65fb08c70bfa390e2c7c1347f72f96</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B][COLOR blue]Agents Of S.H.I.E.L.D. 5º Temporada[/COLOR][/B]</name>	
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/qMqvYhO.jpg</fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0FA504A11E7852FFF049554E6084F8564ED69EA0</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6d6b8685ad790bbaba6f597cf8a89ec13b0d7843</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:f1cd3e34f865c54e742be09c849e716307028a24</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3438a4fbeeea05d139227a2db9aa58b25d41afe7</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1498225F8F2B59629B4DF51965B65C4B3D82DCA8</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:31dab4f20ea8be7d132f74850496595bc4b73507</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6CE71DF3D16BF098725AB1EED2B8F53C831F78CE</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ad7ed6a82c5c23fc99ee1d099a4267602569269f</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4a031b624ff608ef59e8f8c1d32977c3fc846e79</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1e749db279fbb58ac10dd65525c2a7997e40e9aa</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+

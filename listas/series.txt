@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ <item>
+<title>Agents of Shield Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/shield.txt</externallink>
+</item>
+
+<item>
+<title>Arrow Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/arrow.txt</externallink>
+</item>
+
+<item>
+<title>DC's Legends Of Tomorrow Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/legends.txt</externallink>
+</item>	
+
+<item>
+<title>Inumanos Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>https://i2.wp.com/www.comandotorrents.com/wp-content/uploads/2017/09/Inumanos.S01.Dublado.Legendado.png</thumbnail>
+<fanart>https://i0.wp.com/image.ibb.co/c0yBGG/marvels_inhumans_character_posters_1010820.jpg?resize=632%2C353</fanart>
+<externallink>http://cineondemand.tk/ondemand/inumanos.xml</externallink>
+</item>
+
+<item>
+<title>Supergirl Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/supergirl.txt</externallink>
+</item>
+
+<item>
+<title>The Flash Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/flash.txt</externallink>
+</item>
+
+<item>
+<title>The Walking Dead Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/dead.txt</externallink>
+</item>
+
+<item>
+<title>Fear the Walking Dead Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.torrentdosfilmeshd.net/wp-content/uploads/2018/04/fear-the-walking-dead-4a-temporada.jpg</thumbnail>
+<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2017/11/1-f.jpg</fanart>
+<externallink>http://cineondemand.tk/ondemand/fear.txt</externallink>
+</item>
+
+<item>
+<title>MacGyver Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/mac.xml</externallink>
+</item>
+
+<item>
+<title>Stargate Origins Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.torrentdosfilmeshd.net/wp-content/uploads/2018/02/stargate-origins-1a-temporada-torrent-2018.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/33mu1iexdZbtlPMjAsSNxZqQCK.jpg</fanart>
+<externallink>http://cineondemand.tk/ondemand/stargate.txt</externallink>
+</item>
+
+<item>
+<title>Raio Negro Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>https://megafilmestorrents.net/wp-content/uploads/2018/01/MV5BMTAyODI1MTMxOTVeQTJeQWpwZ15BbWU4MDUxNjM3MzQz._V1_SY1000_CR006661000_AL_-352x529.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/raio-negro.txt</externallink>
+</item>
+
+<item>
+<title>Luke Cage Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>https://www.megaseriestorrent.org/wp-content/uploads/2018/06/Luke-Cage-2%C2%AA-Temporada-Torrent.jpg</thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/cage.txt</externallink>
+</item>
+
+<item>
+<title>Ash vs. Evil Dead Dublado</title>
+<link>http://ignorame</link>
+<thumbnail>http://www.torrentdosfilmeshd.net/wp-content/uploads/2018/02/ash-vs-evil-dead-3a-temporada-dublado-e-legendado.jpg</thumbnail>
+<fanart>https://3.bp.blogspot.com/-6NNUVKjSZxk/WpMGYiudinI/AAAAAAAAI6I/7GBxiIiwVXsNn6B8yO3hMvWG7_fF0TCQACLcBGAs/s1600/Ash%2Bvs%2BEvil%2BDead%2Btodas%2Bas%2Btemporadas%2Bcompletas%2Btorrent%2Bdownload.jpg</fanart>
+<externallink>http://cineondemand.tk/ondemand/ash.txt</externallink>
+</item>
+
+<item>
+<title>The Originals Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>http://cineondemand.tk/ondemand/originals.txt</externallink>
+</item>

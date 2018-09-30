@@ -1,0 +1,173 @@
+
+
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>[B]6ª Temporada[/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6d327c4dfcc38e3fae684212c8faac7524c7e86e</link>
+<thumbnail>https://image.tmdb.org/t/p/w200_and_h300_bestv2/uh0HyvWMVMUXAZJVJZ33dQy7N.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02: HDTV</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:198a4f860006c4086dff5ccdeca5d5d413866076</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03: HDTV</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3C7C8CFE2C5EC95FACB8F9581340380BC83119CE</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:594D45DA59377E61067E6D8504AAC95666DCE72B</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:BE2FE94998561B78839021D6BE308F71B115EC08</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:506B511BA4F03652B666223B72A7DE1CEAC70997</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6D2340AB9F2035D803A9639A4B1A87215F827F2A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:cad0543b44434a75fae4bcf131fb23671f8c5deb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:8e6f74deae432b669db8f30204c7ff8c96137c15</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9253C323A79361E68D39D77D3992AB5B8B937489</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:A844B58AD4B5F34B4C10F12D2E53F78799C7949D</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C1D96735AE1BF794F3ADE13699B5218781D0CB45</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4C8079A742769EED699BAE80AAC50D960DD75542</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ff4e4d2ac72e801c094083e915667101b3f94e52</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 15</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:93214B1A9195C161F1BD0B895CC32E11886C542F</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 16</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:d7c6468cbb424075f6ba4e63d9c166d1c73e71cb</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 17</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:025639d1fcfabcbbe30eb7eb4d694fc0ffbd46f7</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 18</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:482fdc3dc3dba5747d5ce052e20cb895afd1ec98</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 19</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:eefd68b5b59c6b61cbddadcddbd28a17d4b614b1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 20</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:607ffe5fc1dc7cae3345ead8d2cad3733a2bc22b</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 21</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:50e5e8ce35ffdba72c9599c54f793183fa6b2666</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 22</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:04C90D205CEEBAFB0D16D11E1D5E099BAA9EAED3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 23</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7ff288287f22bbed9051405dc42d3f24e6f220e5</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

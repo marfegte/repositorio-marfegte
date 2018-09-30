@@ -1,0 +1,309 @@
+<it<?xml version="1.0" encoding="UTF-8" standalone="yes"?>em>
+
+<channels>
+<channel>
+<name>Fear the Walking Dead 1ª Temporada</name>
+<thumbnail>https://4.bp.blogspot.com/-hIGgt7MCXXY/WQ47f7qjIGI/AAAAAAAAIAw/MdsnEc6mQiQGnMWKevd_1uTtXHGAkCpqgCLcB/s1600/fear-the-walking-dead-1a-2a-temporada-torrent.jpg</thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:723010b6ea06b78658ffda4da483a6b79c9226d2</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:322531a453d968d138d56f95073ce5593c1bf7a1</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C9575F690112F7C067C030ED377432D594611E5F</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:38DE24F5179307C196D64C911B10EF2538055197</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5540A577B3B27B92DE3282F682C4F4285E3B3BAD</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:654262FF868BE2CE74ABFCF02CAAFA4989B83234</link>
+<thumbnail></thumbnail>
+</item>
+
+
+</items>
+</channel>
+<channel>
+<name>Fear the Walking Dead 2ª Temporada</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:181E0351A6D378DF7D9C1462D3C49595BFD462AA</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:D81F3135489A1ECC1C8BB70AD8CE74E0C9A3D996</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:EF1E78480C61CAFD88A1885FCC4B172DD69830AC</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:EDE59B374BF55F59CE190E2CD2A6B86D021D31EB</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3F03C9ADA707F283537DB2A8CB20D3C257D12537</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:E44B3A97EA96317B1A9BD49F07DFDC0C26A284B7</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:34177ACBACCCEEEF8E381E86D2B2B69723B5683E</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:40C5C29DA7C2BFA56CD535FDCE4D06F9884525A8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:B76FB040B37B818C4B2BEB41F27D1F4A5A4F7C5B</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6079F382C7EABF2B934B4F95D4A0FE9D6C29364E</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6A6C00A76E584E0688E61A1D69FCEB23EA5DA9E3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:FFB9FB9C1F07FC865143D9232F2824DC2127A632</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7B0D975D7A55D75317AFE9A259825F0E5BCC4AFE</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:01554A8F1057A78898677A732E6A3379E0B10A04</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 15</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ED41E272FF276D5FA41F1072C373ADECE76B8D64</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>Fear the Walking Dead 3ª Temporada</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4e1dd06b67dcbdb33258f6ed9882c26542aa46c9</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:863784b6f4e00dee7003b759a685f295d65d4d47</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:bd2c34e7c5d1b5c5bea4bae6c8eaa21ec1f899ee</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4a31f560428ba9888822e492320c497a046dc7e3</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:f4082069e50e0890fe0d8cfc6d304b742e70a713</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2609e938e33e9727d385d7184711930dde979a52</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e8d37bd4787d589d409d21ec9da51f1e58675502</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c6b5a723d6b3cbb640ee59f7f48d5095edfd78af</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 09</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:31b3b150f51f4565817987cbb6d9150016811382</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 10</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0d1cea16da77ce7c32bd9e4a80b41721c0b5a7df</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 11</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ef7ee191fd0d8893fa2428c348d1797b54da185b</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:abd68e610de9676498695b1e796889082969c732</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b8505040394e9070bdcd1d3674477f27cce0cf5b</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:16785d665acde02d1d2162695321b40830f92863</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 15 e 16</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e1dd000bf3f0f6892cece1889b57c5a01cb83a86</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>Fear the Walking Dead 4ª Temporada</name>	
+<thumbnail>http://www.torrentdosfilmeshd.net/wp-content/uploads/2018/04/fear-the-walking-dead-4a-temporada.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nLkH7Gd6wkuxnocU2mJ5oeX68Qd.jpg</fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ef0680afaaf0f66dec17c4ebdf8dec43ea1e510c</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:29eda1ebc86befe1695d26d18c27389f0a7ac3f4</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:11e1bf2729df39d4c038bb4ec352e345abf9c8b9</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2aad49612ab5b51ee01d0c0f9a057089c4cfc987</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:d74088f35aa729089f1f66fcd723a8f509fdb735</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:df47496651f35db0daadcbd33d2873de02b08f20</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:17ddf53451d3caf429961531e35dc9179046a12d</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 08</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:82627c6698021623b6e2e8be8f03b2e74f8b6f58</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 09 [B][COLOR red]Legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:33c8151f63c525d964a35f65d12d6e4e336ab748</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Episódio 10 [B][COLOR red]Legendado[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:40bf1d4b3107ff8881e7d13794c6135cad5caa15</link>
+<thumbnail></thumbnail>
+</item>

@@ -1,0 +1,174 @@
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 1ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c200a29db264899cc302bc408ebfd0f672720c95</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 2ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4af47793b8b7a14d8d095f6acf846cbaa2947a66</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 3ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:607a9c4cfd29b1a7a7e5e7dfd741747b2e1e7a22</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 4ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3fd06d5c8153a7fdddd82c9bcaa9acee6689114a</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 5ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:431118E72BCDFF33B16FA3B78A3291F25F43C340</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 6ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:81BDC2137092179B5906B15B9EA2614C3942B309</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 7ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:D94D204E818C5721E50C113FBA1ECA829197C37E</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 8ª Temporada - 720p Dual Áudio[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1bf9ab769bbacd956a72e40e3328e87c6dd5f352</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:dd2b8abe9ac217f86963044773d1815483a17027</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 02[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:40921faa034a4af5949bd7761ad05012f74bc219</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 03[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:a331e4639abc54714ccf996a9a553d917560dcbc</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 04[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7622D345343D74D752368A6D95841A21EC2950BA</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 05[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b5442530fc53b17c0d8b5715331fd80e1cef86ba</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white] Episódio 06[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:977a899f8b4e7af7b71f531815d4238baa3d7e94</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 07[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:913023125B2A16D979F52BC5C8FD7B73B5B3CF05</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+magnet:?xt=urn:btih:1e699c7bacad6a0508e0eedbc513aade02a1ce42
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 08[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1e699c7bacad6a0508e0eedbc513aade02a1ce42</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 09[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:4d69f2f18414df5e43e12e93574f690255a15cba</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 10[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:c4eaf2a37a4a9ea57ef1789cfde3db691d9501f4</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 11[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:1bea0cb25f4453c2f959e3ff74f01cc89bc6c868</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 12[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:2f0e078f82ea7d6b4110b51b0da3779bc05dc2ec</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 13[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:23B72086BF9B3B1588BB00B263553908C26938EF</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 14[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:29A795CDC01A7B0F6C2687A527E9A950EF891BA1</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 15[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:D0328C753C248BC3E0BC49E5090456654B70BE43</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>http://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 16[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b329de6e8fb5dd7796c4875cbf5d61ba09eb1c79</link>
+<thumbnail>http://megafilmestorrents.net/wp-content/uploads/2017/10/The-Walking-Dead-2017-1.jpg</thumbnail>
+<fanart>https://megafilmestorrents.net/wp-content/uploads/2017/10/TWD-768x452.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]The Walking Dead 9ª Temporada[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail>https://i2.wp.com/imgur.com/zVrPZLf.jpg?resize=224%2C320&ssl=1</thumbnail>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2018/07/the-walking-dead-key-art-1_1.jpg_1834093470.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] • [COLOR white]Episódio 01[/COLOR][/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0828248489de5679c7a04bf15a5c56d29d42dbad</link>
+<thumbnail>https://i2.wp.com/imgur.com/zVrPZLf.jpg?resize=224%2C320&ssl=1</thumbnail>
+<fanart>https://cdn.fstatic.com/media/movies/covers/2018/07/the-walking-dead-key-art-1_1.jpg_1834093470.jpg</fanart>
+</item>

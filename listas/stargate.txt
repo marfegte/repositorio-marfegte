@@ -1,0 +1,62 @@
+<item>
+<title>Stargate Origins 1ª Temporada</title>
+<link>plugin://plugin.video.quasar/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 01</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:19cfa5789c94584d2efd99b83f999a7079bb85e2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 02</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:ab72943f0dd3a9dab86ed77b9a8da22eab8544b4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 03</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e121a426022d066c58dab65614789e6dba82f838</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 04</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:690BF2BBC7D0899569D892A7BA7CF13CBC69EB7A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 05</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:0173B2BDD576D577F9941D8FAF1A3218F5F9C7E9</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Episódio 06</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:FB3E8662F582D57CF53D221A1156EB2D3EAAD4FB</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+http://pairing:C28F803F5061199809A1DED6C01860B094543780@127.0.0.1:37534/proxy?sid=27e843cf&file=12&token=C28F803F5061199809A1DED6C01860B094543780&pairing=C28F803F5061199809A1DED6C01860B094543780&service=STREAMING
+<item>
+<title>Episódio 07</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:53FE8F41E0E8A2CDA81495F15A3CEB12F0E00ED2</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>STREAMING</title>
+<link>plugin://plugin.video.gdrive?mode=playvideo&videoid=1WUD_LYToqFc0efLLaLKrDOGf1NznsHUg</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
