@@ -1,6 +1,37 @@
-<settings>
-    <setting id="use-account" type="bool" label="Geral" default="false"/>
-    <setting id="username" type="text" label="Usuario" default="" enable="!eq(-1,false)"/>
-    <setting id="password" type="text" label="Senha" default="" option="hidden" enable="!eq(-2,false)"/>
-    <setting id="hide-successful-login-messages" type="bool" label="Login realizado com sucesso" default="false" enable="!eq(-3,false)"/>
+﻿<settings>
+<category label="Informações">
+        <setting label="" type="lsep"/>
+        <setting label="Faça seus pedidos de filmes" type="action" action="RunScript($CWD/resources/lib/pedido.py)" />
+        <setting label="Deixe nos comentários o nome do filme que deseja" type="lsep"/>
+        <setting label="Reportar Links OFF!" type="action" action="RunScript($CWD/resources/lib/off.py)" />
+		<setting label="Achou algum link off? Deixe nos comentários" type="lsep"/>
+        <setting label="Doações" type="action" action="RunScript($CWD/resources/lib/doacao.py)" />
+        <setting label="Ajude nosso projeto" type="lsep"/>
+        <setting label="Grupo facebook" type="action" action="RunScript($CWD/resources/lib/facebook.py)" />
+        <setting label="Vem fazer parte do nosso grupo no facebook" type="lsep"/>
+</category>
+
+<category label="Players">
+	    <setting label="[B][COLOR blue]Selecione abaixo seu gerenciador de torrents[/B][/COLOR]" type="lsep" /> 
+	    <setting type="sep" />
+        <setting label="32054" type="labelenum" id="plugin" default="Quasar" values="Pulsar|Quasar|YATP|KmediaTorrent|Torrenter|XBMCtorrent"/>
+		<setting type="sep" />
+	    <setting label="32057" type="lsep"/>
+	    <setting label="32058" type="lsep"/>
+        <setting type="lsep" />
+    </category>
+  <category label="Configurações">
+    <setting id="save_location" type="folder"  label="Selecione um local de download." default=""/>
+    <setting id="use_thumb" type="bool" label="Usar Thumbnails como Fanart" default="false" />
+    <setting id="logo-folderPath" type="folder"  label="Selecione Diretório para o logo." default=""/>
+    <setting id="add_playlist" type="bool" label="Adicionar itens com vários links" default="false"/>
+    <setting id="ask_playlist_items" type="bool" label="Escolher a caixa de diálogo" default="false" />
+    <setting id="debug" type="bool" label="Ativar depuração" default="false"/>
+    <setting id="1080pquality" label="Reproduzir vídeo 1080p" type="bool" default=""/>
+    <setting id="genesisorpulsar" type="enum" values="Genesis|Pulsar" label="Play IMDBid with:" default="Genesis"/>
+    <setting id="donotshowbychannels" label="Não mostrar itens sob o nome do canal" type="bool" default="false"/>   
+    <setting id="parentalblockedpin" label="Bloqueio Parental" type="text"  option="hidden"  default=""/>
+    <setting id="parentalblocked" label="É Bloqueado Parental Aplicado?" type="bool" default="false" enable="false"/>
+    
+</category>
 </settings>

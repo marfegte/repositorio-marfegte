@@ -62,8 +62,12 @@ def getUrl(url, cookieJar=None,post=None, timeout=20, headers=None):
 	response.close()
 	return link;
 
-def decrypt_vipracing(page_url, justHtml=False,doDecrypt=True):
-	page_data=getUrl(page_url);
+def decrypt_vipracing(page_url, justHtml=False,doDecrypt=True,ref=None, swftoken=None):
+	if ref:
+		headers=[('Referer',ref)]
+		page_data=getUrl(page_url,headers=headers)
+	else:
+		page_data=getUrl(page_url)
 	url=page_url
 	if doDecrypt:
 		str_pattern='src="(.*?(\/embed).*?)"'
@@ -76,11 +80,11 @@ def decrypt_vipracing(page_url, justHtml=False,doDecrypt=True):
 		str_pattern='\'(http.*?)\''
 		url=re.compile(str_pattern).findall(html)[0]
 		html=getUrl(url,headers=headers)
-		
+#		print html
 		
 		str_pattern='c=\"(.*?)\"'
 		meta=re.compile(str_pattern).findall(html)
-		if len(meta)>0 and len(meta[0])>0:
+		if len(meta)>0 and len(meta[0])>0 and 'streamer' not in html:
 			meta=meta[0]
 			str_pattern='x\(\"(.*?)\"\)'
 			data=re.compile(str_pattern).findall(html)[0] 
@@ -89,9 +93,12 @@ def decrypt_vipracing(page_url, justHtml=False,doDecrypt=True):
 		#	final_rtmp=' token=$doregex[tok] pageUrl=http://www.direct2watch.com/ live=1 timeout=10</link>
 			un_chtml=get_html(meta,data);
 			str_pattern='streamer.*[\'"](.*?)[\'"]'
-		else:
+		elif 'streamer\'' in html:
 			un_chtml=html
 			str_pattern='streamer\': \'(.*?)\''
+		else:
+			un_chtml=html
+			str_pattern='streamer.*[\'"](.*?)[\'"]'
 	else:
 			un_chtml=page_data
 			str_pattern='streamer.*[\'"](.*?)[\'"]'
@@ -101,28 +108,38 @@ def decrypt_vipracing(page_url, justHtml=False,doDecrypt=True):
 	print str_pattern,un_chtml
 	streamer=re.compile(str_pattern).findall(un_chtml)[0] 
 	streamer=streamer.replace('\\/','/')
+	if '//#:' in streamer:
+		streamer=streamer.replace('//#:','//watch10.streamlive.to:')
 	str_pattern='file[\'"]?: [\'"](.*?)[\'"]'
 	file=re.compile(str_pattern).findall(un_chtml)[0].replace('.flv','')
+	if  file=="":
+		return ""
 	#print file, un_chtml
 	str_pattern='getJSON\(\"(.*?)\"'
 	token_url=re.compile(str_pattern).findall(un_chtml)[0] 
+	if token_url.startswith('//'): token_url='http:'+token_url
+
 	headers=[('Referer',url)]
-	token_html=getUrl(token_url,headers=headers)
-	str_pattern='token":"(.*)"'
-	token=re.compile(str_pattern).findall(token_html)[0] 
+	if not swftoken:
+		token_html=getUrl(token_url,headers=headers)
+		str_pattern='token":"(.*)"'
+		token=re.compile(str_pattern).findall(token_html)[0] 
+	else:
+		token=swftoken
 	str_pattern='\'flash\', src: \'(.*?)\''
 	swf=re.compile(str_pattern).findall(un_chtml)
 	if not swf or len(swf)==0:
 		str_pattern='flashplayer: [\'"](.*?)[\'"]'
 		swf=re.compile(str_pattern).findall(un_chtml)
 	swf=swf[0]
+	if swf.startswith('//'): swf='http:'+swf
 	#print streamer
 	app=''
 	if '1935/' in streamer:
 		app=streamer.split('1935/')[1]
 		app+=' app='+app
 		streamer=streamer.split('1935/')[0]+'1935/'
-	final_rtmp='%s%s playpath=%s swfUrl=%s token=%s live=1 timeout=10 pageUrl=%s'%(streamer,app,file,swf,token,url)
+	final_rtmp='%s%s playpath=%s swfUrl=%s live=1 token=%s timeout=10 pageUrl=%s flashVer=WIN\\2023,0,0,162'%(streamer,app,file,swf,token,url)
 	return final_rtmp
 	
 #print decrypt_vipracing('http://www.direct2watch.com/embedplayer.php?width=653&height=410&channel=10&autoplay=true','http://vipracing.tv/channel/espn')
