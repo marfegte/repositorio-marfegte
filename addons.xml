@@ -32,23 +32,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.video.F4mProxy" version="2.7.1"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    
-
-    <extension point="xbmc.addon.metadata">
-        <summary>f4mTester</summary>
-        <description></description>
-        <platform>all</platform>
-    </extension>
-</addon>
-
 <addon id="plugin.video.live.streamspro"
        name="LiveStreams[B][COLOR red]Pro[/COLOR][/B]"
        version="2.8.4"
@@ -122,8 +105,7 @@ provider-name="marfegte">
  </extension>
 </addon>
 
-
-  <addon id="script.module.resolveurl" name="ResolveURL" version="5.0.16" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.16" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
@@ -140,19 +122,6 @@ provider-name="marfegte">
 		<summary lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju.</summary>
 		<description lang="en">Resolve common video host URL's to be playable in XBMC/Kodi, simplify addon development of video plugins requiring multi video hosts.</description>
 		<description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
-	</extension>
-</addon>
-
-<addon id="script.module.resolveurl.xxx" version="2.0.02" name="Adult Resolver SMR Extension" provider-name="jsergio, Echo Coder">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.resolveurl" version="5.0.00" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</summary>
-		<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
-		<platform>all</platform>
 	</extension>
 </addon>
 
@@ -178,39 +147,28 @@ provider-name="marfegte">
 	</extension>
 </addon>
 
-<addon id="script.module.urlresolver.xxx" version="1.0.09" name="Adult Resolver SMU Extension" provider-name="jsergio, Echo Coder">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0"/>
-        	<import addon="script.module.urlresolver" version="3.0.38" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</summary>
-		<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="script.video.F4mProxy" 
-	     name="F4mProxy" 
-	     version="2.8.7" 
-	     provider-name="Shani">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.module.requests" />
-  </requires>
-  <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-  </extension>
-
-
-    
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Proxy for f4m</summary>
-    <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
-  </extension>
+<addon id="script.quasar.burst" name="Quasar [COLOR FFFF6B00]Burst[/COLOR]" version="0.5.10" provider-name="scakemyer">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="plugin.video.quasar" optional="false"/>
+    </requires>
+    <extension point="xbmc.python.script" library="burst.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Quasar torrents provider</summary>
+        <description lang="en">Quasar Burst is a lean and mean multi-provider for Quasar.</description>
+        <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.
+        </disclaimer>
+        <license>WTFPL, Version 2, December 2004. See included LICENSE.</license>
+        <website>https://burst.surge.sh</website>
+        <source>https://bitbucket.org/scakemyer/script.quasar.burst</source>
+        <forum>TODO</forum>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
 </addon>
 
 </addons>
