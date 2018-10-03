@@ -14,3 +14,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 </regex>
 </item>
+
+<item>
+<title>Concept Test Gone Rogue (On my part) v.2</title>
+
+<link>htt://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8$$LSPlayOnlyOne$$$$lsname=MyName19</link>
+
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://usachannels.tv/nbc_live.p$$LSPlayOnlyOne$$</link>
+
+<link>htt://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/2564k/prog.m3u8?anv=1472742042917&amp;X-Anvato-Adst-Auth=nQOZ/Y9T7A7hE74NZ13VOGuTMSCzKR/o1WoPmSHdDoY3hyEhB8fey3UUtrwKS0/d</link>
+
+<link>htt://kthv-lh.akamaihd.net/i/KTHVLiveRadar_1@347085/index_2000_av-p.m3u8?sd=6&amp;rebase=on$$lsname=MyName3</link>
+
+<link>htt://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8$$lsname=MyName2</link>
+
+<link>http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8$$lsname=MyName1</link>
+
+</item>
