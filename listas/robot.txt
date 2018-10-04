@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+<channel>
+<name>[B]1ª Temporada[/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>	    
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>$doregex[select]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Via Torrent', 'Via http'])
+    channels = ['http://oo1.hapixel.online/RedeCanais/RCServer10/ondemand/MROBT01EP01.mp4', 'plugin://plugin.video.quasar/play?uri=']
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+<item>
+<title>Episódio 01</title>
+<link>$doregex[select]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Via Torrent', 'Via http'])
+    channels = ['http://oo1.hapixel.online/RedeCanais/RCServer10/ondemand/MROBT01EP01.mp4', 'plugin://plugin.video.quasar/play?uri=']
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+</item>
+
+</items>
+</channel>
+<channel>
+<name>[B]2ª Temporada[/B]</name>	
+<thumbnail></thumbnail>
+<fanart></fanart> 
+<items>
+
+<item>
+<title>Episódio 01</title>
+<link>$doregex[select]</link>
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Via Torrent', 'Via http'])
+    channels = ['http://oo1.hapixel.online/RedeCanais/RCServer10/ondemand/MROBT01EP01.mp4', 'plugin://plugin.video.quasar/play?uri=']
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+</item>

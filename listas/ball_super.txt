@@ -474,3 +474,24 @@
 <thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
 </item>
+
+<item>
+<title>Episódio 68: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:b28265b8f18fb00760945f18f877513ed26e73b6</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 69: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:bd87779fc8aeb1d43844ea4c0e4c5b17e9249cba</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>
+
+<item>
+<title>Episódio 70: 720p</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:9df9237a8b4efbdec377d97cc964cd9405f07bc9</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kXmsg1FhP3oywFHItoVqv109Drk.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dvaEUwWz8ArsEXoowThJOUqfwxE.jpg</fanart>
+</item>

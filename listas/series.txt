@@ -111,3 +111,11 @@
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/listas/originals.txt</externallink>
 </item>
+
+<item>
+<title>Mr. Robot Dublado</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/listas/robot.txt</externallink>
+</item>
