@@ -85,7 +85,7 @@
 
 <channel>
 <name>[B][COLOR orange] ATUALIZADO: 11/03/2017[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/listas/dead.txt</externallink>
+<externallink>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/listas/list.xml</externallink>
 <thumbnail>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/imagens/atualizado.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/marfegte/repositorio_marfegte/master/imagens/fanart.jpg</fanart>
 <info>
