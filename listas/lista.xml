@@ -2,13 +2,37 @@
 <layoutype>thumbnail</layoutype>
 
 <item>
-<title>Homem Formiga e Vespa - Torrent – 2018 (BluRay) 720p e 1080p/ Dublado / Dual Áudio</title>
-<link>
-magnet:?xt=urn:btih:20e21dca27150b09b3c0c5a3c517a293afcc476b&dn=%7bWWW.BLUDV.TV%7d%20Homem-Formiga%20e%20a%20Vespa%202018%20(720p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-magnet:?xt=urn:btih:5f18ec33ff29e10e7abd35fc23d7cf3edd3122b6&dn=%7bWWW.BLUDV.TV%7d%20Homem-Formiga%20e%20a%20Vespa%202018%20(1080p)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-magnet:?xt=urn:btih:40652b67f61d31a0b3c6764cb9962ab9e9d4ee56&dn=%7bWWW.BLUDV.TV%7d%20Homem-Formiga%20e%20a%20Vespa%202018%20(720p)%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce#
-</link>
-<thumbnail>https://i.imgur.com/evQDMTn.jpg</thumbnail>
-<fanart>https://i.imgur.com/evQDMTn.jpg</fanart>
-<info>Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.</info>
-<genre>Ação, Aventura</genre>
+<title>Homem Formiga e Vespa</title>
+<link>$doregex[select]</link>
+
+<regex>
+<name>select</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Choose a movie', ['Big Buck Bunny', 'Sintel', 'Tears of Steel'])
+    regex = ['$doregex[bunny]', '$doregex[sintel]', '$doregex[tears]']
+    return regex[ret]
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>bunny</name>
+<expres>magnet:?xt=urn:btih:20e21dca27150b09b3c0c5a3c517a293afcc476b</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>sintel</name>
+<expres>magnet:?xt=urn:btih:40652b67f61d31a0b3c6764cb9962ab9e9d4ee56</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>tears</name>
+<expres>plugin://plugin.video.youtube/play/?video_id=R6MlUcmOul8</expres>
+<page></page>
+</regex>
+</item>
