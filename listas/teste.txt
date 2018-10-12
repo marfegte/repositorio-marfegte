@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-  
+ <layoutype>thumbnail</layoutype> 
   
     <item>
       <title>[COLOR lime]Os Vingadores: Guerra Infinita[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
