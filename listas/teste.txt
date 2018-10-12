@@ -1,33 +1,112 @@
-<item>
-<title>XBMC Dialog selection - Open Movies</title>
-<link>$doregex[select]</link>
-<regex>
-<name>select</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-    import xbmcgui
-    dialog = xbmcgui.Dialog()
-    ret = dialog.select('Choose a movie', ['Big Buck Bunny', 'Sintel', 'Tears of Steel'])
-    channels = ['http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4', 'http://download.blender.org/durian/movies/Sintel.2010.720p.mkv', 'plugin://plugin.video.youtube/play/?video_id=R6MlUcmOul8']
-    return channels[ret]
-]]></expres>
-<page></page>
-</regex>
-</item>
-
-<item>
-<title>Concept Test Gone Rogue (On my part) v.2</title>
-
-<link>htt://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8$$LSPlayOnlyOne$$$$lsname=MyName19</link>
-
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3Dstreams%26url=http://usachannels.tv/nbc_live.p$$LSPlayOnlyOne$$</link>
-
-<link>htt://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/2564k/prog.m3u8?anv=1472742042917&amp;X-Anvato-Adst-Auth=nQOZ/Y9T7A7hE74NZ13VOGuTMSCzKR/o1WoPmSHdDoY3hyEhB8fey3UUtrwKS0/d</link>
-
-<link>htt://kthv-lh.akamaihd.net/i/KTHVLiveRadar_1@347085/index_2000_av-p.m3u8?sd=6&amp;rebase=on$$lsname=MyName3</link>
-
-<link>htt://cdn.bimvidlive.com/kyur/ngrp:kyur1_all/playlist.m3u8$$lsname=MyName2</link>
-
-<link>http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8$$lsname=MyName1</link>
-
-</item>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
+  
+    <item>
+      <title>[COLOR lime]Os Vingadores: Guerra Infinita[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:259153B746AE9A3A15C8650720905FEBA0BF7072&amp;dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%28720p# sublink:magnet:?xt=urn:btih:6BE54BD75FA910FFF23E978104C4646450437312&amp;dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%281080p# sublink:magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183&amp;dn=%7bWWW.BLUDV.COM%7d%20Vingadores%20-%20Guerra%20Infinita%202018%20%284K# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/original/zDJxO0yNlN3wBDvLtxp8PZqcyNE.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg</fanart>
+      <info>Enquanto os Vingadores e seus aliados continuaram a proteger o mundo de ameaças grandes demais para qualquer herói, uma nova ameaça emergiu das sombras cósmicas: Thanos. Um déspota de infâmia intergalática, tem o objetivo de coletar todas as seis Joias do Infinito, artefatos de poder inimaginável, e usá-las para infligir sua vontade distorcida em toda a realidade. Tudo pelo que os Vingadores lutaram levou até este momento - o destino da Terra e da própria existência nunca foi tão incerto.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]A Morte de Super-Man[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:D43B0B0A26341F5229746B6494221DCACD07F9EE&amp;dn=%7bWWW.BLUDV.COM%7d%20A%20Morte%20do%20Superman%202018%20%28720p# sublink:magnet:?xt=urn:btih:09D6925D9FC31A924AF5F5AA1DCDE57B9CC1713D&amp;dn=%7bWWW.BLUDV.COM%7d%20A%20Morte%20do%20Superman%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSRFgF3tnyloPrn5pbqWCS4jOWo.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/9FdCHAV2YzndUR7tYWIq8O9uvVv.jpg</fanart>
+      <info>Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Shiki Oriori – O Sabor da Juventude[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:2EFCCF1D05F957B2F3B1E3A23CAEB5857654CC9E&amp;dn=%7bWWW.BLUDV.COM%7d%20Shiki%20Oriori%20-%20O%20Sabor%20da%20Juventude%202018%20%28720p# sublink:magnet:?xt=urn:btih:AE326B9C826E4A58D92A5B0AADE48E0200871B36&amp;dn=%7bWWW.BLUDV.COM%7d%20Shiki%20Oriori%20-%20O%20Sabor%20da%20Juventude%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ueHeH5ergeHx27L4SCI9qlmwczA.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/iRB6VKJuFd88bk20hvLqlDzi4kP.jpg</fanart>
+      <info>Recordações evocadas por uma tigela de macarrão, a decadência de uma bela modelo e um primeiro amor com sabor agridoce - três histórias urbanas ambientadas na China.</info>
+      <genre>Anime, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Para Sempre Chape[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:Sem link# sublink:magnet:?xt=urn:btih:40E1F01C1B04B4F120BF186B99E7E2CC268368FC&amp;dn=Para%20Sempre%20Chape%202018%20%281080p sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYskC9OPOqYq5FaBvrPl7yWODZR.jpg</thumbnail>
+      <fanart>https://i.ytimg.com/vi/Lqg0ZfNRlzQ/maxresdefault.jpg</fanart>
+      <info>Em 2016, a Chapecoense, time de futebol da cidade de Chapecó, se classificou para a final do campeonato Sul-Americano, algo inédito para o clube até então. No entanto, a trajetória histórica foi interrompida no dia 28 de novembro do mesmo ano, quando o avião que transportava o time para a grande partida sofreu um grave acidente, provocando a morte de 71 pessoas. Depois de meses de luto e muita comoção, a Chapecoense se reergueu e deu continuidade ao legado daqueles que partiram, rumo ao topo novamente.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]LEGO: Aquaman[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:6150F5EAF540D9ADFB8493DCFB0B546625C05F55&amp;dn=LEGO%20DC%20Comics%20Super%20Her%C3%B3is%20-%20Aquaman%20%E2%80%93%20A%20F%C3%BAria%20de%20Atl%C3%A2ntida%202018%20%28720p# sublink:magnet:?xt=urn:btih:6E7481EE64975A473178B4A4BD0ED115D959237A&amp;dn=LEGO%20DC%20Comics%20Super%20Her%C3%B3is%20-%20Aquaman%20%E2%80%93%20A%20F%C3%BAria%20de%20Atl%C3%A2ntida%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcNbV993Yd7Ksk5QWF0KfyQof6.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/gtTniKFOjZ5muvhuod1FKWZRVQP.jpg</fanart>
+      <info>Após perder seu trono em Atlantis, Aquaman deve fugir da ameaça dos Red Lanterns e aprender o que é ser um herói para salvar a Liga da Justiça.</info>
+      <genre>Animação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Extinção[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:8BD920CCF83FFD739ACC96950270364F56F3CF9E&amp;dn=Extin%C3%A7%C3%A3o%202018%20%28720p# sublink:magnet:?xt=urn:btih:36C15B0F533014AA3BA8007C1440C6FC79D1D7E9&amp;dn=Extin%C3%A7%C3%A3o%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9nPnDDPrSgMw7TUrYShiZ3Ud07.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/y1sCuzGoZLyLF6MJYBV9ToYWn1O.jpg</fanart>
+      <info>Sonhando recorrentemente com a perda da sua família, Peter (Michael Peña) vê seus pesadelos se tornando realidade quando o planeta é invadido por uma força brutal e destrutiva. Ele luta pela vida e para proteger sua família, descobrindo dentro de si uma força desconhecida capaz de manter todos que amam a salvo.</info>
+      <genre>Ficção, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Gringo: Vivo ou Morto[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:725c158ae128b706da42de79df3360097a65a003&amp;dn=Gringo%20%e2%80%93%20Vivo%20ou%20Morto%20(2018)%20%5bBluRay%5d%20%5b720p# sublink:magnet:?xt=urn:btih:17cd2709063fc0c0c2b29e4516dc4a8d2a9e86ff&amp;dn=Gringo%20%e2%80%93%20Vivo%20ou%20Morto%20(2018)%20%5bBluRay%5d%20%5b1080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EXWz4TM3FRuxuJ5j0SBkQ1dR0P.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/tM6UpkSMjqI0vcI6Lulbovui6lD.jpg</fanart>
+      <info>Funcionário dedicado e marido exemplar, Harold Soyinka (David Oyelowo) leva uma vida pacata em Chicago. Enfrentando problemas financeiros, ele descobre que a empresa em que trabalha está negociando uma fusão que pode resultar em sua demissão. Aos poucos David passa a acreditar nesta possibilidade, devido a atos suspeitos de seu chefe e &quot;melhor amigo&quot; Richard Rusk (Joel Edgerton). Quando Richard e sua sócia Elaine Markinson (Charlize Theron) resolvem acompanhá-lo em uma viagem de trabalho corriqueira ao México, David vê a situação como a oportunidade ideal para fingir ter sido sequestrado e, desta forma, pedir um polpudo sequestro.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Ploey Você Nunca Voará Sozinho[/COLOR] [COLOR grey] 2018 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:15B94406D8DD508EAE899AE794153B2083AF1630&amp;dn=Ploey%20Voc%c3%aa%20Nunca%20Voar%c3%a1%20Sozinho%202018%20%28720p# sublink:Sem link# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pETx5wk2p4myLwHpNKLR62hH6x8.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/t9OzdbuoqOBZrN7P70dJ8rIfpyd.jpg</fanart>
+      <info>Um filhote de tarambola ainda não aprendeu a voar quando chega a hora de sua família migrar no outono. Ele precisa sobreviver ao inverno ártico, inimigos cruéis e a si mesmo, a fim de se reunir com seus entes queridos na próxima primavera.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2018</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]LBJ - A Esperança de Uma Nação[/COLOR] [COLOR grey] 2017 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:317A37CA48F03B1AFD39EABCF3B6053FB00E708B&amp;dn=LBJ-%20A%20Esperan%c3%a7a%20De%20Uma%20Na%c3%a7%c3%a3o%202018%20%28720p# sublink:magnet:?xt=urn:btih:CA9FAFB5F5412297EAA48462E1E2E3A2E46FE7D1&amp;dn=LBJ-%20A%20Esperan%c3%a7a%20De%20Uma%20Na%c3%a7%c3%a3o%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0ofwOnVHbcR8WhZtB2y7UkM1Qm.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/88nJDIsm9H9wvxrQLbdXBxsgXuZ.jpg</fanart>
+      <info>A história do presidente americano Lyndon Baines Johnson, desde a sua juventude no Texas até a sua chegada à Casa Branca.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2017</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Almas Secas[/COLOR] [COLOR grey] 2017 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:7FFC840474EB07EC6D026D9D3D710DC4F4CBA36D&amp;dn=Almas%20Secas%202018%20%28720p# sublink:magnet:?xt=urn:btih:1FAFC584D2D769FD8097AF4384995D1C39985231&amp;dn=Almas%20Secas%202018%20%281080p# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUhyFBv3b36cy4kQlVsUoWEIV8H.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/vV7TnQU1Ge9aljhnMW0TOivR25p.jpg</fanart>
+      <info>O projeto de The Equalizer existe há muito tempo. No início, o diretor Paul Haggis seria o diretor, e Russell Crowe estava confirmado no papel principal. Depois, Denzel Washington entrou no projeto. O ator seria inicialmente dirigido pelo cineasta Nicolas Winding Refn, que também abandonou o filme.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2017</date>
+    </item>
+    
+    <item>
+      <title>[COLOR lime]Por Trás dos Seus Olhos[/COLOR] [COLOR grey] 2017 Dublado[/COLOR]</title>
+      <link>sublink:magnet:?xt=urn:btih:4c92369a1fba8dbba8ba566e44f9932a1f488d71&amp;dn=Por%20Tr%C3%A1s%20dos%20Seus%20Olhos%202018%20%5bBluRay%5d%20%5b720p# sublink:Sem link# sublink:Sem link# sublink:Sem link#</link>
+      <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NoZgE7pF4l6bapqZTk4EpGLsk.jpg</thumbnail>
+      <fanart>https://image.tmdb.org/t/p/original/daBjwNXK5eZ0BYU9IAUcG7j5SJF.jpg</fanart>
+      <info>Gina (Blake Lively) perdeu a visão quando era criança, após um acidente grave. Acostumada à deficiência, ela vive com o marido James (Jason Clarke) na Tailândia, graças a uma promoção que ele recebeu. Gina é completamente dependente do marido, numa situação que agrada a ambos. Um dia, um médico decide testar uma nova cirurgia em Gina, que permitiria resgatar a visão de um dos olhos. Ao aceitar o procedimento, ela finalmente descobre um mundo novo, munida da vontade de viver várias experiências de que foi privada a vida inteira. Logo, a independência de Gina põe o casamento em risco.</info>
+      <genre>Ação, Aventura, Drama</genre>
+      <date>2017</date>
+    </item>
