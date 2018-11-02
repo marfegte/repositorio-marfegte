@@ -303,3 +303,26 @@
 <thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
 </item>
 
+<item>
+<title>Episódio 12</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:5df84e04d456b379c25041113af696da7e40b9df</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 13</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:92bf15895451c79aa7c289f10a4a3e6d9c5b25ec</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 14</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:3a836d06988d7d6baedf5f1c73c960d4088800d2</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
+
+<item>
+<title>Episódio 15</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:745e0f142652222658b8107fa9928d2108d0434b</link>
+<thumbnail>https://www.comandofilmes.club/wp-content/uploads/2018/03/Agents-of-SHIELD-5%C2%AA-Temporada-%E2%80%93-Torrent-2017-Legendado-e-Dublado-HDTV-720p.jpg</thumbnail>
+</item>
